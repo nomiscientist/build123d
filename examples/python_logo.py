@@ -25,6 +25,7 @@ license:
     limitations under the License.
 
 """
+import utils.session
 from build123d import *
 from ocp_vscode import show
 
