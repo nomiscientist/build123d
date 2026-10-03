@@ -45,7 +45,6 @@ docs/_build/
 build
 
 #Environments
-.env
 .venv
 env/
 venv/
@@ -54,10 +53,11 @@ env.bak/
 venv.bak/
 
 #ide debris
-.vscode
 
 # Profiling debris.
 prof/
 
 # MacOS cruft
 .DS_Store
+config.bat
+node_modules
